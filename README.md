@@ -86,7 +86,7 @@ Please follow the code style guidelines (Black for Python) and ensure all tests 
 
 ## License
 
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ---
 
