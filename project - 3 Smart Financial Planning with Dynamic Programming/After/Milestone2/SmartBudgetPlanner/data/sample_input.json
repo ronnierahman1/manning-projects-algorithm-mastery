@@ -1,0 +1,13 @@
+{
+    "income": 3000,
+    "categories": [
+      {"Category": "Rent", "Minimum Expense": 1000},
+      {"Category": "Food", "Minimum Expense": 400},
+      {"Category": "Utilities", "Minimum Expense": 300}
+    ],
+    "emergency_fund": {
+      "target": 10000,
+      "current": 8000
+    }
+  }
+  

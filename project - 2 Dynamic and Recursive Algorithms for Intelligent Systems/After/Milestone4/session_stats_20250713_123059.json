@@ -1,0 +1,59 @@
+{
+  "session_info": {
+    "start_time": "2025-07-13T12:20:01.472048",
+    "end_time": "2025-07-13T12:30:59.457394",
+    "duration_seconds": 657.985346
+  },
+  "statistics": {
+    "queries_processed": 3,
+    "cache_hits": 2,
+    "recursive_queries": 0,
+    "successful_queries": 3,
+    "failed_queries": 0,
+    "average_response_time": 0.5367072423299154,
+    "total_time": 1.610121726989746,
+    "fuzzy_matches": 1,
+    "priority_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 3
+    },
+    "session_start_time": "2025-07-13T12:20:01.472048",
+    "peak_memory_usage": 202.37109375,
+    "command_usage": {
+      "exit": 1
+    },
+    "query_length_stats": {
+      "min": 16,
+      "max": 40,
+      "avg": 31.333333333333332
+    },
+    "error_categories": {},
+    "response_quality_scores": [
+      0.27999999999999997,
+      0.066,
+      0.066
+    ],
+    "user_satisfaction_ratings": []
+  },
+  "configuration": {
+    "max_recursion_depth": 4,
+    "cache_size_limit": 1000,
+    "logging_level": "INFO",
+    "enable_performance_monitoring": true,
+    "auto_save_stats": true,
+    "stats_save_interval": 300,
+    "enable_fuzzy_matching": true,
+    "fuzzy_threshold": 0.8,
+    "enable_spell_correction": true,
+    "response_timeout": 30.0,
+    "max_query_length": 1000,
+    "enable_plugins": false,
+    "plugins_directory": "./plugins",
+    "backup_data_on_start": true,
+    "enable_conversation_history": true,
+    "max_history_size": 100,
+    "enable_analytics": true,
+    "performance_alert_threshold": 5.0
+  }
+}
